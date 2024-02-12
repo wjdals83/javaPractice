@@ -20,7 +20,7 @@ public class Application02 {
 
         // 목차. 1-1-2. 실수를 취급하는 자료형 2가지
         float fnum;     // 4byte
-        double dnum;        // 8byte 중요. foat 이 더 큰 값인 줄 알았는데 double 이 더 큰 거였음,,
+        double dnum;        // 8byte 중요. float 이 더 큰 값인 줄 알았는데 double 이 더 큰 거였음,,
 
         // 목차. 1-1-3. 문자를 취급하는 자료형 1가지
         char ch;      // 2byte
